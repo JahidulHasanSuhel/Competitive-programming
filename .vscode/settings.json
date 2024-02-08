@@ -1,18 +1,6 @@
 {
     "files.associations": {
-        "regex": "cpp",
-        "iostream": "cpp",
-        "random": "cpp",
-        "iosfwd": "cpp",
-        "cmath": "cpp",
-        "vector": "cpp",
-        "bitset": "cpp",
-        "chrono": "cpp",
-        "limits": "cpp",
         "valarray": "cpp",
-        "ostream": "cpp",
-        "array": "cpp",
-        "string": "cpp",
         "tuple": "cpp"
     }
 }
